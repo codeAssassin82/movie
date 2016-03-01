@@ -1,0 +1,21 @@
+/*body {
+  background-color: grey;
+}*/
+/*
+.back {
+  height: 75px;
+  width: 75px;
+  margin-left: 500px;
+  margin-bottom: 150px;
+  background-size: 100%;
+  background-image: url("https://i.ytimg.com/vi/EHwPNTuyAds/maxresdefault.jpg");
+
+}*/
+html {
+  background-image: url("https://i.ytimg.com/vi/EHwPNTuyAds/maxresdefault.jpg");
+  no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
